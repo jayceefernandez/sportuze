@@ -1,5 +1,7 @@
 {
   "name": "sportuze",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
